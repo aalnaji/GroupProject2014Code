@@ -1,0 +1,11 @@
+﻿<Window x:Class="StockTicker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Views="clr-namespace:StockTicker.Views"
+        Title="Stock Ticker" Height="350" Width="525">
+    <DockPanel>
+        <Button Content="Subscribe for Stock Prices" DockPanel.Dock="Bottom" Click="Subscribe_Click"/>
+        <Views:TickerView x:Name="TickerView" DockPanel.Dock="Bottom"/>
+        
+    </DockPanel>
+</Window>

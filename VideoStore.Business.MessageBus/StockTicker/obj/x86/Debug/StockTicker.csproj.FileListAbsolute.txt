@@ -1,0 +1,94 @@
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\bin\Debug\StockTicker.exe
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\bin\Debug\StockTicker.pdb
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\MainWindow.baml
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\Views\TickerView.baml
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\Views\TickerView.g.cs
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\App.g.cs
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker_MarkupCompile.cache
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.g.resources
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.Properties.Resources.resources
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.exe
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.pdb
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\StockTicker\bin\Debug\StockTicker.exe.config
+E:\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\Views\TickerView.baml
+E:\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\Views\TickerView.g.cs
+E:\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker_MarkupCompile.cache
+E:\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.g.resources
+E:\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.Properties.Resources.resources
+E:\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.exe
+E:\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.pdb
+E:\comp5348\week6\TradeMessageBus\StockTicker\bin\Debug\StockTicker.exe.config
+E:\comp5348\week6\TradeMessageBus\StockTicker\bin\Debug\StockTicker.exe
+E:\comp5348\week6\TradeMessageBus\StockTicker\bin\Debug\StockTicker.pdb
+E:\comp5348\week6\TradeMessageBus\StockTicker\bin\Debug\Common.dll
+E:\comp5348\week6\TradeMessageBus\StockTicker\bin\Debug\Common.pdb
+E:\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\MainWindow.baml
+E:\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\MainWindow.g.cs
+E:\comp5348\week6\TradeMessageBus\StockTicker\obj\x86\Debug\App.g.cs
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\bin\Debug\StockTicker.exe.config
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\bin\Debug\StockTicker.exe
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\bin\Debug\StockTicker.pdb
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\bin\Debug\Common.pdb
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\MainWindow.baml
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\Views\TickerView.baml
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\MainWindow.g.cs
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\Views\TickerView.g.cs
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\App.g.cs
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker_MarkupCompile.cache
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.g.resources
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.Properties.Resources.resources
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.exe
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.pdb
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\bin\Debug\Common.dll
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\comp5348\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker_MarkupCompile.lref
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\bin\Debug\StockTicker.exe.config
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\bin\Debug\StockTicker.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\bin\Debug\StockTicker.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\Views\TickerView.baml
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\Views\TickerView.g.cs
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker_MarkupCompile.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker_MarkupCompile.lref
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.g.resources
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.Properties.Resources.resources
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.pdb
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\bin\Debug\StockTicker.exe.config
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\bin\Debug\StockTicker.exe
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\bin\Debug\StockTicker.pdb
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\bin\Debug\Common.dll
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\bin\Debug\Common.pdb
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\Views\TickerView.baml
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\Views\TickerView.g.cs
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker_MarkupCompile.cache
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker_MarkupCompile.lref
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.g.resources
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.Properties.Resources.resources
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.exe
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\StockTicker\obj\x86\Debug\StockTicker.pdb

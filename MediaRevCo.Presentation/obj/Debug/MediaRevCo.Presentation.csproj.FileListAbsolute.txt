@@ -1,0 +1,16 @@
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\obj\Debug\Views\ReviewAdder.baml
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\obj\Debug\Views\ReviewsList.baml
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\obj\Debug\Views\ReviewAdder.g.cs
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\obj\Debug\Views\ReviewsList.g.cs
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\obj\Debug\MediaRevCo.Presentation_MarkupCompile.cache
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\obj\Debug\MediaRevCo.Presentation.g.resources
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\bin\Debug\MediaRevCo.Presentation.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\bin\Debug\MediaRevCo.Presentation.pdb
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\obj\Debug\MediaRevCo.Presentation.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\obj\Debug\MediaRevCo.Presentation.pdb
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\bin\Debug\MediaRevCo.Business.Entities.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\bin\Debug\MediaRevCo.Business.Entities.pdb
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\bin\Debug\MediaRevCo.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Presentation\bin\Debug\MediaRevCo.Business.Components.Interfaces.pdb

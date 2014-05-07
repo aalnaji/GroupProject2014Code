@@ -1,0 +1,8 @@
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Business.MessageBus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Business.MessageBus\bin\Debug\MessageBus.dll.config
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Business.MessageBus\bin\Debug\MessageBus.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Business.MessageBus\bin\Debug\MessageBus.pdb
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Business.MessageBus\bin\Debug\Common.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Business.MessageBus\bin\Debug\Common.pdb
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Business.MessageBus\obj\x86\Debug\MessageBus.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Business.MessageBus\obj\x86\Debug\MessageBus.pdb

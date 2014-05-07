@@ -1,0 +1,12 @@
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components\bin\Debug\MediaRevCo.Business.Components.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components\bin\Debug\MediaRevCo.Business.Components.pdb
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components\bin\Debug\MediaRevCo.Business.Components.Interfaces.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components\bin\Debug\MediaRevCo.Business.Entities.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components\bin\Debug\MediaRevCo.Business.Components.Interfaces.pdb
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components\bin\Debug\MediaRevCo.Business.Entities.pdb
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components\obj\Debug\MediaRevCo.Business.Components.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components\obj\Debug\MediaRevCo.Business.Components.pdb
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components\bin\Debug\Common.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components\bin\Debug\Common.pdb

@@ -1,0 +1,45 @@
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\bin\Debug\TradeMessageBus.exe.config
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\bin\Debug\TradeMessageBus.exe
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\bin\Debug\TradeMessageBus.pdb
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\obj\x86\Debug\TradeMessageBus.exe
+C:\Users\Matt\Desktop\comp5348\week6\TradeMessageBus\obj\x86\Debug\TradeMessageBus.pdb
+E:\comp5348\week6\TradeMessageBus\bin\Debug\TradeMessageBus.exe.config
+E:\comp5348\week6\TradeMessageBus\obj\x86\Debug\TradeMessageBus.exe
+E:\comp5348\week6\TradeMessageBus\obj\x86\Debug\TradeMessageBus.pdb
+E:\comp5348\week6\TradeMessageBus\bin\Debug\TradeMessageBus.exe
+E:\comp5348\week6\TradeMessageBus\bin\Debug\TradeMessageBus.pdb
+E:\comp5348\week6\TradeMessageBus\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\comp5348\week6_rev2\TradeMessageBus\bin\Debug\TradeMessageBus.exe.config
+E:\comp5348\week6_rev2\TradeMessageBus\obj\x86\Debug\TradeMessageBus.exe
+E:\comp5348\week6_rev2\TradeMessageBus\obj\x86\Debug\TradeMessageBus.pdb
+E:\comp5348\week6_rev2\TradeMessageBus\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\comp5348\week6_rev2\TradeMessageBus\bin\Debug\TradeMessageBus.exe
+E:\comp5348\week6_rev2\TradeMessageBus\bin\Debug\TradeMessageBus.pdb
+E:\comp5348\week6_rev2\TradeMessageBus\bin\Debug\Common.dll
+E:\comp5348\week6_rev2\TradeMessageBus\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\bin\Debug\TradeMessageBus.exe.config
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\obj\x86\Debug\TradeMessageBus.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\obj\x86\Debug\TradeMessageBus.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\bin\Debug\TradeMessageBus.exe
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\bin\Debug\TradeMessageBus.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\bin\Debug\Common.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\bin\Debug\Common.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\week6_7\week6_rev2\TradeMessageBus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\bin\Debug\TradeMessageBus.exe.config
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\obj\x86\Debug\TradeMessageBus.exe
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\obj\x86\Debug\TradeMessageBus.pdb
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\bin\Debug\TradeMessageBus.exe
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\bin\Debug\TradeMessageBus.pdb
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\bin\Debug\Common.dll
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\bin\Debug\Common.pdb
+C:\Documents and Settings\msla2391\Desktop\week5_6_2012\week6_rev2\TradeMessageBus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\week5_6_rev3_2012\TradeMessageBus\bin\Debug\TradeMessageBus.exe.config
+C:\Users\Matt\Desktop\week5_6_rev3_2012\TradeMessageBus\obj\x86\Debug\TradeMessageBus.exe
+C:\Users\Matt\Desktop\week5_6_rev3_2012\TradeMessageBus\obj\x86\Debug\TradeMessageBus.pdb
+C:\Users\Matt\Desktop\TradeMessageBus\TradeMessageBus\bin\Debug\TradeMessageBus.exe.config
+C:\Users\Matt\Desktop\TradeMessageBus\TradeMessageBus\obj\x86\Debug\TradeMessageBus.exe
+C:\Users\Matt\Desktop\TradeMessageBus\TradeMessageBus\obj\x86\Debug\TradeMessageBus.pdb
+C:\Users\Matt\Desktop\GroupProject2012\TradeMessageBus\TradeMessageBus\bin\Debug\TradeMessageBus.exe.config
+C:\Users\Matt\Desktop\GroupProject2012\TradeMessageBus\TradeMessageBus\obj\x86\Debug\TradeMessageBus.exe
+C:\Users\Matt\Desktop\GroupProject2012\TradeMessageBus\TradeMessageBus\obj\x86\Debug\TradeMessageBus.pdb

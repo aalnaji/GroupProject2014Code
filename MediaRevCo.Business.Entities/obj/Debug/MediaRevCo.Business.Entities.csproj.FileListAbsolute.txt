@@ -1,0 +1,7 @@
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Entities\bin\Debug\MediaRevCo.Business.Entities.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Entities\bin\Debug\MediaRevCo.Business.Entities.pdb
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Entities\obj\Debug\MediaRevCo.Business.Entities.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Entities\obj\Debug\MediaRevCo.Business.Entities.pdb
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Entities\bin\Debug\Common.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Entities\bin\Debug\Common.pdb

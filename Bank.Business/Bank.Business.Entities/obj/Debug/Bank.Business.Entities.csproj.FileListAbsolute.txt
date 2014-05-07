@@ -1,0 +1,18 @@
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Users\Matt\Desktop\PracTaskB\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\Bank.Business\Bank.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Documents and Settings\!msla2391\Desktop\comp5348\Group Project\GroupProject(1)\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\Bank.Business\Bank.Business.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
+C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
