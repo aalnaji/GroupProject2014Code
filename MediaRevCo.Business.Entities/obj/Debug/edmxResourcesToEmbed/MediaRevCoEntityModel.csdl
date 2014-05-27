@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2008/09/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="MediaRevCoEntityModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation">
+  <EntityContainer Name="MediaRevCoEntityModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Reviews" EntityType="MediaRevCoEntityModel.Review" />
+  </EntityContainer>
+  <EntityType Name="Review">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="ReviewTitle" Nullable="false" />
+    <Property Type="String" Name="Comments" Nullable="false" />
+    <Property Type="String" Name="MediaItemTitle" Nullable="false" />
+    <Property Type="String" Name="UPC" Nullable="false" />
+  </EntityType>
+</Schema>

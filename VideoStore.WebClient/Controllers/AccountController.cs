@@ -9,7 +9,6 @@ using System.Web.Routing;
 using System.Web.Security;
 using VideoStore.WebClient.ViewModels;
 using VideoStore.Business.Entities;
-using VideoStore.WebClient.ViewModels;
 using VideoStore.WebClient.UserService;
 
 namespace VideoStore.WebClient.Controllers

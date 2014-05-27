@@ -5,3 +5,10 @@ C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithR
 C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Entities\obj\Debug\MediaRevCo.Business.Entities.pdb
 C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Entities\bin\Debug\Common.dll
 C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Entities\bin\Debug\Common.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Entities\bin\Debug\MediaRevCo.Business.Entities.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Entities\bin\Debug\MediaRevCo.Business.Entities.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Entities\bin\Debug\Common.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Entities\bin\Debug\Common.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Entities\obj\Debug\MediaRevCo.Business.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Entities\obj\Debug\MediaRevCo.Business.Entities.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Entities\obj\Debug\MediaRevCo.Business.Entities.pdb

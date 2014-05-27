@@ -20,6 +20,7 @@ using Microsoft.Practices.ServiceLocation;
 using System.Configuration;
 using System.ServiceModel;
 using MediaRevCo.Services;
+using MediaRevCo.Services.Interfaces;
 
 namespace MediaRevCo.Process
 {
@@ -43,6 +44,22 @@ namespace MediaRevCo.Process
         private void HostService()
         {
             ServiceHost lHost = new ServiceHost(typeof(ReviewSubscriptionService));
+            //Code start - new
+            // Add MSMQ service end point to the subscription service
+            NetMsmqBinding binding = new NetMsmqBinding(NetMsmqSecurityMode.None)
+            {
+                ExactlyOnce = false
+            };
+
+            lHost.AddServiceEndpoint(typeof(IReviewSubscriptionService), binding,
+               "net.msmq://localhost/private/SubscribeQ");
+
+            //Create private queue if not exists
+            string queueName = @".\private$\SubscribeQ";
+            if (!System.Messaging.MessageQueue.Exists(queueName))
+                System.Messaging.MessageQueue.Create(queueName, false);
+            //Code end - new
+
             lHost.Open();
         }
 

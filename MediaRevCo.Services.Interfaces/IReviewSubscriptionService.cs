@@ -9,7 +9,7 @@ namespace MediaRevCo.Services.Interfaces
     [ServiceContract]
     public interface IReviewSubscriptionService
     {
-        [OperationContract]
+        [OperationContract(IsOneWay=true)]
         void SubscribeForReviews(String pAddress, String pUPC);
     }
 }

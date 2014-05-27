@@ -16,3 +16,8 @@ C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithR
 C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
 C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb
 C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll.config
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\Bank.Business\Bank.Business.Entities\bin\Debug\Bank.Business.Entities.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\Bank.Business\Bank.Business.Entities\obj\Debug\Bank.Business.Entities.pdb

@@ -5,3 +5,10 @@ C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithR
 C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components.Interfaces\bin\Debug\MediaRevCo.Business.Entities.pdb
 C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components.Interfaces\obj\Debug\MediaRevCo.Business.Components.Interfaces.dll
 C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components.Interfaces\obj\Debug\MediaRevCo.Business.Components.Interfaces.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components.Interfaces\bin\Debug\MediaRevCo.Business.Components.Interfaces.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components.Interfaces\bin\Debug\MediaRevCo.Business.Components.Interfaces.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components.Interfaces\bin\Debug\MediaRevCo.Business.Entities.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components.Interfaces\bin\Debug\MediaRevCo.Business.Entities.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components.Interfaces\obj\Debug\MediaRevCo.Business.Components.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components.Interfaces\obj\Debug\MediaRevCo.Business.Components.Interfaces.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components.Interfaces\obj\Debug\MediaRevCo.Business.Components.Interfaces.pdb

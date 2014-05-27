@@ -23,7 +23,7 @@ namespace Common
             }
             else if (pHandlerAddress.Contains("net.msmq"))
             {
-                lBinding = new NetMsmqBinding(NetMsmqSecurityMode.None) { Durable = true };
+                lBinding = new NetMsmqBinding(NetMsmqSecurityMode.None) { Durable = true, ExactlyOnce = false };
             }
             else
             {

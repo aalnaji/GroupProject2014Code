@@ -11,8 +11,6 @@ using Microsoft.Practices.Unity.ServiceLocatorAdapter;
 using Microsoft.Practices.ServiceLocation;
 using VideoStore.WebClient.ViewModels;
 using VideoStore.Business.Entities;
-using VideoStore.WebClient.ViewModels;
-
 namespace VideoStore.WebClient
 {
     // Note: For instructions on enabling IIS6 or IIS7 classic mode, 

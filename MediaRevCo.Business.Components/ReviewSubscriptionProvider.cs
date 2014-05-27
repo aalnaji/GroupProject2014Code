@@ -48,7 +48,11 @@ namespace MediaRevCo.Business.Components
             {
                 foreach(String lSubscriberAddress in sSubscriptions[pReview.UPC])
                 {
-                    IReviewSubscriber lSubscriber = ServiceFactory.GetService<IReviewSubscriber>(lSubscriberAddress);
+                    //IReviewSubscriber lSubscriber = ServiceFactory.GetService<IReviewSubscriber>(lSubscriberAddress);
+                    //Code start - new
+                    //Give the MSMQ address when we get service
+                    IReviewSubscriber lSubscriber = ServiceFactory.GetService<IReviewSubscriber>("net.msmq://localhost/private/ReviewQ");
+                    //Code start - end
                     lSubscriber.ReceiveReview(pReview);
                 }
             }           

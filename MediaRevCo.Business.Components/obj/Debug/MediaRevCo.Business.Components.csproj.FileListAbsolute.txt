@@ -10,3 +10,15 @@ C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithR
 C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components\bin\Debug\Microsoft.Practices.ServiceLocation.dll
 C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components\bin\Debug\Common.dll
 C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\MediaRevCo.Business.Components\bin\Debug\Common.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components\bin\Debug\MediaRevCo.Business.Components.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components\bin\Debug\MediaRevCo.Business.Components.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components\bin\Debug\Common.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components\bin\Debug\MediaRevCo.Business.Components.Interfaces.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components\bin\Debug\MediaRevCo.Business.Entities.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components\bin\Debug\Common.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components\bin\Debug\MediaRevCo.Business.Components.Interfaces.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components\bin\Debug\MediaRevCo.Business.Entities.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components\obj\Debug\MediaRevCo.Business.Components.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components\obj\Debug\MediaRevCo.Business.Components.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\MediaRevCo.Business.Components\obj\Debug\MediaRevCo.Business.Components.pdb

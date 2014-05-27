@@ -52,3 +52,12 @@ C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithR
 C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services.Interfaces\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.dll
 C:\Users\Matt\Desktop\GroupProject2012\VideoStoreWithRolesS12012\VideoStoreWithRolesS12012\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Services.Interfaces.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Business.Entities.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Services.Interfaces\bin\Debug\Common.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Services.Interfaces\bin\Debug\VideoStore.Business.Entities.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Services.Interfaces\bin\Debug\Common.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.dll
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Services.Interfaces\obj\Debug\VideoStore.Services.Interfaces.pdb
