@@ -16,7 +16,8 @@ namespace Bank.Services
             get { return ServiceLocator.Current.GetInstance<ITransferProvider>(); }
         }
 
-        [OperationBehavior(TransactionScopeRequired = true, TransactionAutoComplete = true)]
+        // new code start: no need for this stub
+        [OperationBehavior()]
         public void Transfer(decimal pAmount, int pFromAcctNumber, int pToAcctNumber, String pDescription)
         {
             TransferProvider.Transfer(pAmount, pFromAcctNumber, pToAcctNumber, pDescription);

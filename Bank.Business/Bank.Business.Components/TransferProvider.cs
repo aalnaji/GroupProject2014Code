@@ -11,11 +11,20 @@ namespace Bank.Business.Components
     public class TransferProvider : ITransferProvider
     {
 
-
+        // new code start: declare private queue address for reponse messages
+        private const String sResponseAddress = "net.msmq://localhost/private/Responseq";
+        
         public void Transfer(decimal pAmount, int pFromAcctNumber, int pToAcctNumber, String pDescription)
         {
+
             bool lOutcome = true;
             String lMessage = "TransferSuccessful";
+
+            // new code start: processing elements of the description parameter used in response
+            char[] delimiters = { ',' };
+            string[] messageParts = pDescription.Split(delimiters);
+            IOperationOutcomeService responseOutcome = OperationOutcomeServiceFactory.GetOperationOutcomeService(sResponseAddress);
+            
             try
             {
                 using (TransactionScope lScope = new TransactionScope())
@@ -35,16 +44,23 @@ namespace Bank.Business.Components
             }
             catch (Exception lException)
             {
+                // new code start: no need to set exception message as it will not be thrown
                 Console.WriteLine("Error occured while transferring money:  " + lException.Message);
-                lMessage = lException.Message;
+                //lMessage = lException.Message;
                 lOutcome = false;
-                throw;
+                //throw;
             }
             finally
             {
+                // new code start: here the outcome is logged in the bank console and returned to videoStore
                 //here you should know if the outcome of the transfer was successful or not
+               
+                Console.WriteLine(lMessage);
+                responseOutcome.NotifyOperationOutcome(new OperationOutcome()
+                {
+                    Message = lMessage + "," + messageParts[0] + "," + messageParts[0]
+                });
             }
-
         }
 
         private Account GetAccountFromNumber(int pToAcctNumber)

@@ -3,6 +3,6 @@ C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Business.Messag
 C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Business.MessageBus\bin\Debug\MessageBus.pdb
 C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Business.MessageBus\bin\Debug\Common.dll
 C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Business.MessageBus\bin\Debug\Common.pdb
+C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Business.MessageBus\obj\Debug\MessageBus.csprojResolveAssemblyReference.cache
 C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Business.MessageBus\obj\Debug\MessageBus.dll
 C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Business.MessageBus\obj\Debug\MessageBus.pdb
-C:\Users\Ahmed Alnaji\Desktop\Group_Project\26May(v1)\VideoStore.Business.MessageBus\obj\Debug\MessageBus.csprojResolveAssemblyReference.cache

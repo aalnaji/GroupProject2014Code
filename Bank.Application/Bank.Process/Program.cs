@@ -17,12 +17,17 @@ namespace Bank.Process
 {
     class Program
     {
+        // new code start: create private queues paths for transfer/reponse messages
+        private static readonly String sTranferQueuePath = ".\\private$\\Transferq";
+        private static readonly String sResponseQueuePath = ".\\private$\\Responseq";
+
         static void Main(string[] args)
         {
+            EnsureTransferMessageQueuesExists();
+            EnsureResponseMessageQueuesExists();
             ResolveDependencies();
             CreateDummyEntities();
             HostServices();
-
         }
 
         private static void HostServices()
@@ -34,14 +39,6 @@ namespace Bank.Process
                 while (Console.ReadKey().Key != ConsoleKey.Q) ;
             }
         }
-
-        //private static readonly String sPublishQueuePath = ".\\private$\\BankTransferQueueTransacted";
-        //private static void EnsureMessageQueuesExists()
-        //{
-        //    // Create the transacted MSMQ queue if necessary.
-        //    if (!MessageQueue.Exists(sPublishQueuePath))
-        //        MessageQueue.Create(sPublishQueuePath, true);
-        //}
 
         private static void CreateDummyEntities()
         {
@@ -78,6 +75,18 @@ namespace Bank.Process
             lSection.Containers["containerOne"].Configure(lContainer);
             UnityServiceLocator locator = new UnityServiceLocator(lContainer);
             ServiceLocator.SetLocatorProvider(() => locator);
+        }
+        // new code start: Create the transfer MSMQ queue if necessary.
+        private static void EnsureTransferMessageQueuesExists()
+        {
+            if (!MessageQueue.Exists(sTranferQueuePath))
+                MessageQueue.Create(sTranferQueuePath, true);
+        }
+        // new code start: Create the response MSMQ queue if necessary.
+        private static void EnsureResponseMessageQueuesExists()
+        {
+            if (!MessageQueue.Exists(sResponseQueuePath))
+                MessageQueue.Create(sResponseQueuePath, true);
         }
     }
 }

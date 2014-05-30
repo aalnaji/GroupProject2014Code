@@ -7,14 +7,14 @@ namespace VideoStore.Business.Entities
 {
     public partial class Order
     {
-        public double Total
+        public decimal Total
         {
             get
             {
-                double lTotal = 0.0;
+                decimal lTotal = 0.0M;
                 foreach (OrderItem lItem in this.OrderItems)
                 {
-                    lTotal = lTotal + (double)lItem.Media.Price;
+                    lTotal = lTotal + lItem.Media.Price;
                 }
                 return lTotal;
             }

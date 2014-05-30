@@ -66,6 +66,18 @@
     <Compile Include="Transformations\ReviewTransformVisitor.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Bank.Business\Bank.Business.Components.Interfaces\Bank.Business.Components.Interfaces.csproj">
+      <Project>{1908D09F-DA6F-4E6C-8AA7-963816BB05B1}</Project>
+      <Name>Bank.Business.Components.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Bank.Business\Bank.Business.Components\Bank.Business.Components.csproj">
+      <Project>{9DC3D9E0-63FD-4901-8203-0739F35E74BA}</Project>
+      <Name>Bank.Business.Components</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Bank.Business\Bank.Business.Entities\Bank.Business.Entities.csproj">
+      <Project>{4BB64DAE-6F81-4E3D-A2BD-41075F28F15F}</Project>
+      <Name>Bank.Business.Entities</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Common\Common.csproj">
       <Project>{C2D987A4-AD05-4C0B-B285-5B64B0132DF9}</Project>
       <Name>Common %28Common\Common%29</Name>
@@ -107,6 +119,7 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
     <None Include="Service References\ReviewSubscriptionService\service.wsdl" />
     <None Include="Service References\ReviewSubscriptionService\service.xsd">
       <SubType>Designer</SubType>

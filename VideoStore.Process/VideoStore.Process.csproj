@@ -108,6 +108,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Bank.Business\Bank.Business.Components.Interfaces\Bank.Business.Components.Interfaces.csproj">
+      <Project>{1908D09F-DA6F-4E6C-8AA7-963816BB05B1}</Project>
+      <Name>Bank.Business.Components.Interfaces</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MediaRevCo.Business.Components.Interfaces\MediaRevCo.Business.Components.Interfaces.csproj">
       <Project>{D1F0E1CC-F21C-41DC-92B1-3D4DEA0A0764}</Project>
       <Name>MediaRevCo.Business.Components.Interfaces</Name>

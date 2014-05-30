@@ -9,5 +9,9 @@ namespace VideoStore.Business.Components.Interfaces
     public interface IOrderProvider
     {
         void SubmitOrder(Order pOrder);
+        
+        // new code start: 
+        void ReverseOrder(int pOrderId);
+        void PersistOrder(string pMessage, int pOrderId);
     }
 }
